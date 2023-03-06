@@ -1,7 +1,6 @@
-### Hello! My name is João Victor, better known as Pereira. This is my official profile!
+### Hello! My name is João Victor, better known as Victor Programmer. This is my official profile!
 
-- 🔭 Working with HTML programming!
 - 🌱 Studying TypeScript!
-- 📩 Contact my email: contatopereiraax@gmail.com
+- 📩 Contact my email: contato.vxctordeveloper@gmail.com
 - 💻 Programmer for 3 years.
-- 🔨 Official GitHub of Pereiraax_.
+- 🔨 Official GitHub of Vxctor_.
